@@ -1,0 +1,20 @@
+name: cuida_pet
+description: A server app using the shelf package and Docker.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: '>=2.18.6 <3.0.0'
+
+dependencies:
+  args: 
+  dotenv: 
+  shelf:
+  shelf_router: 
+  shelf_swagger_ui: 
+  
+
+dev_dependencies:
+  http: 
+  lints: 
+  test: 
